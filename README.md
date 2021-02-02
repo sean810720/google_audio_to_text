@@ -1,4 +1,5 @@
 # Google Speech Recongnition
+<p align="left"><img height="480" src="./test-from-wav.png"></p>
 
 ### Prepare Installations
 pip3 install SpeechRecognition<br/>
