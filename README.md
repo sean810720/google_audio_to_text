@@ -1,10 +1,11 @@
-# Prepare Installations
+# Google Speech Recongnition
+
+## Prepare Installations
 pip3 install SpeechRecognition<br/>
 brew install portaudio<br/>
 pip3 install PyAudio<br/>
 
-# Run
-
+## Run
 - With microphone:<br/>
 python3 test.py<br/>
 
