@@ -1,4 +1,4 @@
-# Google Speech Recongnition
+# Google Speech Recognition
 <p align="left"><img width="600" src="./test-from-wav.png"></p>
 
 ### Prepare Installations
