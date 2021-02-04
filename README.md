@@ -1,4 +1,4 @@
-# A demo POC uses Google Speech Recognition
+# A demo POC uses Google speech recognition
 <p align="left"><img width="600" src="./test-from-wav.png"></p>
 
 ### Prepare Installations
