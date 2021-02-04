@@ -10,15 +10,15 @@ pip3 install PyAudio
 
 ### Run
 
-```With microphone:
+- With microphone:<br/>
+```
 python3 test.py
 ```
-<br/>
 
-```With .wav file
+- With .wav file:<br/>
+```
 python3 test-from-wav.py
 ```
-<br/>
 
 You can enter any file name of .wav files which in folder "audio",<br/>
 ex: test.wav
