@@ -1,5 +1,5 @@
 # Google Speech Recongnition
-<p align="left"><img width="550" src="./test-from-wav.png"></p>
+<p align="left"><img width="600" src="./test-from-wav.png"></p>
 
 ### Prepare Installations
 ```
