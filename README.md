@@ -9,14 +9,13 @@ pip3 install PyAudio
 ```
 
 ### Run
-- With microphone:<br/>
-```
+
+```With microphone:
 python3 test.py
 ```
 <br/>
 
-- With .wav file:<br/>
-```
+```With .wav file
 python3 test-from-wav.py
 ```
 <br/>
