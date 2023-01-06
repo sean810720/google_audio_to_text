@@ -9,10 +9,14 @@ r = sr.Recognizer()
 WAV = sr.AudioFile('audio/' + filename)
 
 with WAV as source:
+    # 降噪處理
+    r.adjust_for_ambient_noise(source, duration=0.5)
+
     audio = r.record(source)
     try:
         print("系統辨識語音檔內容:")
         print(r.recognize_google(audio, show_all=False, language="zh-TW"))
+        # print(r.recognize_google(audio, show_all=False, language="en-US"))
 
     except sr.UnknownValueError:
         print("系統無法理解這段語音")
